@@ -8,7 +8,7 @@ This supplementary guide helps new team members ramp up quickly by providing rol
 
 1. Identify your role in the table of contents below.
 2. Complete all orientation tasks in your section during your first week.
-3. Review the **Quick-Reference Guide** at the bottom to familiarise yourself with the responsibilities of other roles.
+3. Review the **Quick-Reference Guide** at the bottom to familiarize yourself with the responsibilities of other roles.
 
 ---
 
@@ -61,7 +61,7 @@ This supplementary guide helps new team members ramp up quickly by providing rol
 ### Key Artifacts to Review
 - [ ] `docs/octoacme-roles-and-personas.md` — understand all team roles
 - [ ] `docs/octoacme-project-initiation.md` — project initiation process
-- [ ] `docs/octoacme-project-planning.md` — planning process and artefacts
+- [ ] `docs/octoacme-project-planning.md` — planning process and artifacts
 - [ ] `docs/octoacme-retrospective-and-continuous-improvement.md` — improvement process
 - [ ] Recent sprint review notes and retrospective action items
 
@@ -85,7 +85,7 @@ This supplementary guide helps new team members ramp up quickly by providing rol
 ### Key Artifacts to Review
 - [ ] `docs/octoacme-roles-and-personas.md` — understand all team roles
 - [ ] `docs/octoacme-project-initiation.md` — initiation process
-- [ ] `docs/octoacme-project-planning.md` — planning artefacts and templates
+- [ ] `docs/octoacme-project-planning.md` — planning artifacts and templates
 - [ ] `docs/octoacme-risks-and-communication.md` — risk and communication framework
 - [ ] `docs/octoacme-execution-and-tracking.md` — execution and tracking approach
 - [ ] `docs/octoacme-release-and-deployment.md` — release coordination process
